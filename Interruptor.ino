@@ -1,4 +1,4 @@
-int entrada = 2;
+#define entrada 2
 
 void setup() {
   pinMode(entrada, INPUT);
